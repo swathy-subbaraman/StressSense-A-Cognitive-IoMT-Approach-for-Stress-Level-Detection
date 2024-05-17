@@ -1,5 +1,5 @@
 # StressSense-A-Cognitive-IoMT-Approach-for-Stress-Level-Detection
-# Problem Statement:
+** Problem Statement: **
 
 •	Stress escalates into various serious health problems, ranging from cardiovascular diseases, immune system imbalances, and gastrointestinal issues to musculoskeletal disorders. In severe cases, stress can even precipitate heart attacks and fatalities. 
 •	Stress detection in differently abled individuals poses heightened challenges due to communication barriers, necessitating innovative solutions for early identification and intervention. 
